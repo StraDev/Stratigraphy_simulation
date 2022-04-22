@@ -1,11 +1,17 @@
 # Stratigraphy Simulation
 
 ## Introduction
-This is a program that can simulate stratigraphcial process through 3D interactive models. Users can interact with the model through different geological processes and defining their own parameters in the process. 
+This is a program that can simulate stratigraphcial process through 3D interactive models. Users can interact with the model through different geological processes and defining their own parameters in the process. Each lithological unit is represented by a colour, similar to a geological map. It can be created step by step from a series of deposition, erosion, uplift and folding, as shown in the figure below:
 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/99826605/164767921-c775d6d4-92f0-4b3a-a5cb-33e4d656457a.png">
 
+The user can also customize the model by using colour of their own choice to define stratigraphical units. It is possible to make models representing real life geology with aids of geological maps and cross section. The following is an exmaple of a model created to describe the geolgy in Cheddar, UK. (Geological map and cross section taken from the website of the British Geological Survey, link: https://webapps.bgs.ac.uk/data/maps/maps.cfc?method=viewRecord&mapId=11249)
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/99826605/164768893-03a6bd42-5bd2-4c81-aeaf-7a07c74f97c9.png">
 
 ## Example
+This example shows how a 3D model can be created step by step, and how the different parameters are defined
+
 ### 1. Deposition     
   thickness of units = [3, 2, 2, 2, 1, 3, 2]   
  
