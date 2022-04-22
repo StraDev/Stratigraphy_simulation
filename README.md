@@ -7,7 +7,7 @@ This is a program that can simulate stratigraphcial process through 3D interacti
 
 The user can also customize the model by using colour of their own choice to define stratigraphical units. It is possible to make models representing real life geology with aids of geological maps and cross section. The following is an exmaple of a model created to describe the geolgy in Cheddar, UK. (Geological map and cross section taken from the website of the British Geological Survey, link: https://webapps.bgs.ac.uk/data/maps/maps.cfc?method=viewRecord&mapId=11249)
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/99826605/164768893-03a6bd42-5bd2-4c81-aeaf-7a07c74f97c9.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/99826605/164770394-d1101fb5-e9c1-49e0-8847-c0621766c88d.png">
 
 ## Example
 This example shows how a 3D model can be created step by step, and how the different parameters are defined
