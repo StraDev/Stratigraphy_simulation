@@ -10,7 +10,7 @@ The user can also customize the model by using colour of their own choice to def
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/99826605/164770394-d1101fb5-e9c1-49e0-8847-c0621766c88d.png">
 
 ## Example
-This example shows how a 3D model can be created step by step, and how the different parameters are defined. The code can be found in the notebook "Stratigraphysim_model_building_github.ipynb"
+This example shows how a 3D model can be created step by step, and how the different parameters are defined. The code can be found in the notebook "Stratigraphysim_model_building_github.ipynb". The interactive equivalent of the images of the model used in this example can be found [here](https://github.com/StraDev/Stratigraphy_simulation/tree/main/Interactive_plots). The models are not viewable on the browswer and needed to be downloaded in order to view.
 
 ### 1. Deposition     
   thickness of units = [3, 2, 2, 2, 1, 3, 2]   
